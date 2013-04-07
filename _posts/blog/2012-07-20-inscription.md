@@ -14,4 +14,5 @@ description: 这应该是我的座右铭了，只要网络上有我的ID，那�
 
 That's all.
 
+[Shy07]:    http://git.shy07.com  "Shy07"
 [1]:    {{ page.url}}  ({{ page.title }})
