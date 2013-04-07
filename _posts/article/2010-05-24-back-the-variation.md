@@ -1,11 +1,11 @@
----
+ï»¿---
 layout: post
 title: Back - The Variation
 category: article
-description: ¸ø´óÑ§Í¬Ñ§Ğ´µÄ¾ç±¾£¬Ô­À´´òËãÒ»ÆğÓÃUnity3D×öÒ»¸öÓÎÏ·
+description: ç»™å¤§å­¦åŒå­¦å†™çš„å‰§æœ¬ï¼ŒåŸæ¥æ‰“ç®—ä¸€èµ·ç”¨Unity3Dåšä¸€ä¸ªæ¸¸æˆ
 ---
 
-<blockquote>¸ø´óÑ§Í¬Ñ§Ğ´µÄ¾ç±¾£¬Ô­À´´òËãÒ»ÆğÓÃUnity3D×öÒ»¸öÓÎÏ·£¬²»¹ıºóÀ´ÒòÎª±¾ÈËÓ¢ÓïÊµÔÚ²»Õ¦µØ£¨¿´Õâ¾ç±¾¾ÍÖªµÀÁË :-|£©£¬Ëì·ÅÆúÁË¡£</blockquote>
+<blockquote>ç»™å¤§å­¦åŒå­¦å†™çš„å‰§æœ¬ï¼ŒåŸæ¥æ‰“ç®—ä¸€èµ·ç”¨Unity3Dåšä¸€ä¸ªæ¸¸æˆï¼Œä¸è¿‡åæ¥å› ä¸ºæœ¬äººè‹±è¯­å®åœ¨ä¸å’‹åœ°ï¼ˆçœ‹è¿™å‰§æœ¬å°±çŸ¥é“äº† :-|ï¼‰ï¼Œé‚æ”¾å¼ƒäº†ã€‚</blockquote>
 
 <p style="text-align: right;">Scenario by Linki Shy
 Character with Zoe &amp; Mac</p>
@@ -14,10 +14,10 @@ Character with Zoe &amp; Mac</p>
 Mac: Here?
 Zoe: Right.
 <h2>(One shadow appeared in right side and disappeared in left side suddenly. And Mac was broken down.)</h2>
-Mac: Hey, what¡¯s that?
+Mac: Hey, whatâ€™s that?
 Zoe: Wild cat.
 Mac: Wild cat? You sure?
-Zoe: I said ¡®right¡¯.
+Zoe: I said â€˜rightâ€™.
 Mac: Right? Oh, right.
 <h2>(While Mac within hesitate, Zoe has been gone away.)</h2>
 <!--more-->
@@ -25,18 +25,18 @@ Mac: Hey, wait.
 <h2>(5/23/2055 10:27:43 PM, Gate of ABC)</h2>
 Mac: Finally, we got here.
 Zoe: Right.
-Mac: Oh, don¡¯t say right any more, please.
-Zoe: Get away. I¡¯ll open it.
+Mac: Oh, donâ€™t say right any more, please.
+Zoe: Get away. Iâ€™ll open it.
 Mac: Okay. My sister lady.
 <h2>(One minutes late, the gate open with explosion)</h2>
 Mac: Could you be more gently?
-Zoe: Sorry. It¡¯s my style, you know.
+Zoe: Sorry. Itâ€™s my style, you know.
 Mac: Okay. But you sure we can find Eternity Sword here?
 Zoe: Who knows.
 Mac: Hey, look. A fresco.
-Zoe: It¡¯s Chinese painting, my gentleman.
+Zoe: Itâ€™s Chinese painting, my gentleman.
 Mac: Chinese painting? But how do you know?
-Zoe: Sorry, I¡¯m made in China
+Zoe: Sorry, Iâ€™m made in China
 Mac: Humph, he has never told me.
 Zoe: He?
 Mac: He is nothing.
@@ -49,8 +49,8 @@ Rain is the tear of the god
 I thought
 Like a poet </em>
 
-<em>Several years¡¯ lose</em>
-<em> Several years¡¯ care</em>
+<em>Several yearsâ€™ lose</em>
+<em> Several yearsâ€™ care</em>
 <em> And one day</em>
 <em> We met</em>
 <em> While the feeling became</em>
@@ -61,7 +61,7 @@ Like a poet </em>
 <em> When brother we are</em>
 <em> Get coldness</em>
 <em> When the mailbox</em>
-<em> Become spider¡¯s heaven</em>
+<em> Become spiderâ€™s heaven</em>
 <em> I wake up</em>
 <em> I repent</em>
 <em> Time is just like a double-edged sword</em>
@@ -75,7 +75,7 @@ Like a poet </em>
 <em> I just like a bird with injured wings</em>
 <em> Stay in the Phoenix Tree alone</em>
 <em> No interests to enjoy the beautiful scene</em>
-<em> One poem can¡¯t express my helplessness</em>
+<em> One poem canâ€™t express my helplessness</em>
 <em> Then how many can express</em>
 <em> The answer may be made me more helplessness</em>
 
@@ -86,7 +86,7 @@ Like a poet </em>
 <em> Are you crying for me?</em>
 <em> Like a child</em>
 <em> No answer</em>
-<em> ¡­</em>
+<em> â€¦</em>
 <em> Never answer</em>
 
 Mac: Wow, cool.
@@ -101,28 +101,28 @@ Zoe: And what should I do?
 Mac: Eternity Sword, you must found it.
 Zoe: Wait!
 <h2>(And Mac has run away.)</h2>
-Mac: Hey, nice guy. Let¡¯s have a party.
+Mac: Hey, nice guy. Letâ€™s have a party.
 <h3>[Battle: Mac Vs enemies]</h3>
 <h2>(And Zoe was fret)</h2>
-Zoe: Well, but be careful¡­
+Zoe: Well, but be carefulâ€¦
 <h2>(One minutes late)</h2>
-Zoe: Lost and found¡­That¡¯s it, I see. Wait for me, Mac.
-Mac: Ah¡­
+Zoe: Lost and foundâ€¦Thatâ€™s it, I see. Wait for me, Mac.
+Mac: Ahâ€¦
 Zoe: Mac!
 NPC2: Humph, trash man.
 Zoe: Ditch him!
 NPC2: Okay. If you want.
 <h2>(NPC2 killed Mac)</h2>
 Zoe: No!
-NPC2: Humph¡­ Now I¡¯ll send you him together.
+NPC2: Humphâ€¦ Now Iâ€™ll send you him together.
 Zoe: Skunk!
 <h3>[Battle: Zoe Vs NPC2]</h3>
 <h2>(After battle)</h2>
-NPC2: Oh, forgive me, I don¡¯t wanna be died.
+NPC2: Oh, forgive me, I donâ€™t wanna be died.
 Zoe: Say hello to Azrael for me.
-NPC2: Ah¡­
-Zoe: Mac¡­
+NPC2: Ahâ€¦
+Zoe: Macâ€¦
 <h2>(Zoe kneel down beside Mac)</h2>
-Zoe: Why! Found must be after lost! Why! Tell me, Mac! Tell me¡­
-<h2>(And at last, it¡¯s raining. Fin.)</h2>
+Zoe: Why! Found must be after lost! Why! Tell me, Mac! Tell meâ€¦
+<h2>(And at last, itâ€™s raining. Fin.)</h2>
 <p style="text-align: right;">5/24/2010 12:41:14 PM</p>
