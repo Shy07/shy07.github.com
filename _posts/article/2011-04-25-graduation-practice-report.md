@@ -2,7 +2,7 @@
 layout: post
 title: 毕业实习报告
 category: article
-description: 给大学同学写的剧本，原来打算一起用Unity3D做一个游戏
+description: 此文弃内容之讲解，从本质之感悟。措辞多有艰涩之处，是为实话不明语，修辞文饰之，冀盼多有包涵。
 ---
 
 <blockquote>此文弃内容之讲解，从本质之感悟。措辞多有艰涩之处，是为实话不明语，修辞文饰之，冀盼多有包涵。</blockquote>
