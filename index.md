@@ -16,7 +16,7 @@ layout: page
     <ul class="index-mid"> </ul>
 
     <ul class="index-right">
-    {% for post in site.categories.poem%}
+    {% for post in site.categories.poem %}
         <li>
             <h2>
             	<a href="{{ post.url }}">{{ post.title }}</a>
