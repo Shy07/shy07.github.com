@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Love Whisper Novel Version 第一部分
-category: project
+category: novel
 description: Love Whisper Novel Version 第一部分
 ---
 

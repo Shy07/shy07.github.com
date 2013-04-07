@@ -21,8 +21,8 @@ layout:           default
                 </div>
             </div>
             <div class="about-left about-more">
-                <h2>Project</h2>
-                {% for post in site.categories.project %}
+                <h2>Novel</h2>
+                {% for post in site.categories.novel %}
                     <a href="{{ post.url }}" title="{{ post.description }}">{{ post.title }}</a><br/>
                 {% endfor %}
             </div>
