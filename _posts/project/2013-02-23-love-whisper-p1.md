@@ -5,7 +5,7 @@ category: project
 description: Love Whisper Novel Version 第一部分
 ---
 
-<blockquote style="font-size:16px;">
+<!-- <blockquote style="font-size:16px;"> -->
 ## 声明  
 <ol>
   <li>授权除外，全文禁止任意方式的引用或转载。</li>
@@ -322,4 +322,4 @@ description: Love Whisper Novel Version 第一部分
 <p>　　最后可能会有人对战斗部分抱有怨念，这里我只好说声抱歉了。因为在游戏中这部分是交由玩家操作的，而我本身也不喜欢在这方面着墨太多，所以小说中我都是用切换场景和少量后续来处理的。不敢说留有想像的余地，只当在下能力不足吧。:)</p>
 <p>　　“WORD EXIT”</p>
 <p style="text-align: right;">徐咨2013年2月于上海珠溪</p>
-</blockquote>
+<!-- </blockquote> -->
