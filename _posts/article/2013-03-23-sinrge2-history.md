@@ -5,7 +5,7 @@ category: article
 description: SINRGE2 已经发布了，而这篇文章是发布时被我丢弃的 HISTORY 文档。
 ---
 
-SINRGE2 已经发布了（[github 地址][][Github][]），而这篇文章是发布时被我丢弃的 HISTORY 文档。所以这篇文章本身也算是个黑历史，取如上标题正是出于这个意思。
+SINRGE2 已经发布了（[SINRGE2][]@Github），而这篇文章是发布时被我丢弃的 HISTORY 文档。所以这篇文章本身也算是个黑历史，取如上标题正是出于这个意思。
 
 引言
 
@@ -65,6 +65,5 @@ Happy birthday, SINRGE2.
 
 
 [Shy07]:    http://git.shy07.com  "Shy07"
-[Github]:   http://github.com "Github"
-[github 地址]:		http://github.com/Shy07/SINRGE2  "github 地址"
+[SINRGE2]:		https://github.com/Shy07/SINRGE2  "SINRGE2"
 [1]:    {{ page.url}}  ({{ page.title }})
