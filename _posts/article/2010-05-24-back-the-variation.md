@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Back - The Variation
 category: article
