@@ -2,7 +2,7 @@
 layout: post
 title: Back - The Variation
 category: article
-description: 给大学同学写的剧本，原来打算一起用Unity3D做一个游戏
+description: 给大学同学写的剧本，原来打算一起用Unity3D做一个游戏……
 ---
 
 给大学同学写的剧本，原来打算一起用Unity3D做一个游戏，不过后来因为本人英语实在不咋地（看这剧本就知道了 :-|），遂放弃了。  
