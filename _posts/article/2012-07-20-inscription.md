@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello world
-category: blog
+category: article
 description: 这应该是我的座右铭了，只要网络上有我的ID，那多半会伴随着这个Hello world :)
 ---
 
