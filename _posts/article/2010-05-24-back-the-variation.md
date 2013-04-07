@@ -5,86 +5,85 @@ category: article
 description: 给大学同学写的剧本，原来打算一起用Unity3D做一个游戏
 ---
 
-<blockquote>给大学同学写的剧本，原来打算一起用Unity3D做一个游戏，不过后来因为本人英语实在不咋地（看这剧本就知道了 :-|），遂放弃了。</blockquote>
+<blockquote>给大学同学写的剧本，原来打算一起用Unity3D做一个游戏，不过后来因为本人英语实在不咋地（看这剧本就知道了 :-|），遂放弃了。</blockquote>  
 
 <p style="text-align: right;">Scenario by Linki Shy
-Character with Zoe &amp; Mac</p>
+Character with Zoe &amp; Mac</p>  
 
-<h2 style="text-align: left;">(5/23/2055 10:15:39 PM, Beside of ABC)</h2>
-Mac: Here?
-Zoe: Right.
-<h2>(One shadow appeared in right side and disappeared in left side suddenly. And Mac was broken down.)</h2>
-Mac: Hey, what’s that?
-Zoe: Wild cat.
-Mac: Wild cat? You sure?
-Zoe: I said ‘right’.
-Mac: Right? Oh, right.
-<h2>(While Mac within hesitate, Zoe has been gone away.)</h2>
-<!--more-->
-Mac: Hey, wait.
-<h2>(5/23/2055 10:27:43 PM, Gate of ABC)</h2>
-Mac: Finally, we got here.
-Zoe: Right.
-Mac: Oh, don’t say right any more, please.
-Zoe: Get away. I’ll open it.
-Mac: Okay. My sister lady.
-<h2>(One minutes late, the gate open with explosion)</h2>
-Mac: Could you be more gently?
-Zoe: Sorry. It’s my style, you know.
-Mac: Okay. But you sure we can find Eternity Sword here?
-Zoe: Who knows.
-Mac: Hey, look. A fresco.
-Zoe: It’s Chinese painting, my gentleman.
-Mac: Chinese painting? But how do you know?
-Zoe: Sorry, I’m made in China
-Mac: Humph, he has never told me.
-Zoe: He?
-Mac: He is nothing.
-<h2>(In front of the Chinese painting)</h2>
-Mac: What does it mean?
-Zoe: A Chinese poetry. Let me try to translate.
-<h2>Lost and found</h2>
-<em>In a long time
-Rain is the tear of the god
-I thought
-Like a poet </em>
+## (5/23/2055 10:15:39 PM, Beside of ABC)  
+Mac: Here?  
+Zoe: Right.  
+## (One shadow appeared in right side and disappeared in left side suddenly. And Mac was broken down.)  
+Mac: Hey, what’s that?  
+Zoe: Wild cat.  
+Mac: Wild cat? You sure?  
+Zoe: I said ‘right’.  
+Mac: Right? Oh, right.  
+## (While Mac within hesitate, Zoe has been gone away.)  
+Mac: Hey, wait.  
+## (5/23/2055 10:27:43 PM, Gate of ABC)  
+Mac: Finally, we got here.  
+Zoe: Right.  
+Mac: Oh, don’t say right any more, please.  
+Zoe: Get away. I’ll open it.  
+Mac: Okay. My sister lady.  
+## (One minutes late, the gate open with explosion)  
+Mac: Could you be more gently?  
+Zoe: Sorry. It’s my style, you know.  
+Mac: Okay. But you sure we can find Eternity Sword here?  
+Zoe: Who knows.  
+Mac: Hey, look. A fresco.  
+Zoe: It’s Chinese painting, my gentleman.  
+Mac: Chinese painting? But how do you know?  
+Zoe: Sorry, I’m made in China  
+Mac: Humph, he has never told me.  
+Zoe: He?  
+Mac: He is nothing.  
+## (In front of the Chinese painting)  
+Mac: What does it mean?  
+Zoe: A Chinese poetry. Let me try to translate.  
+## Lost and found  
+In a long time  
+Rain is the tear of the god  
+I thought  
+Like a poet  
 
-<em>Several years’ lose</em>
-<em> Several years’ care</em>
-<em> And one day</em>
-<em> We met</em>
-<em> While the feeling became</em>
-<em> Clear and clear</em>
+Several years’ lose  
+Several years’ care  
+And one day  
+We met  
+While the feeling became  
+Clear and clear  
 
-<em>When nothing to talk</em>
-<em> Between the foes we are</em>
-<em> When brother we are</em>
-<em> Get coldness</em>
-<em> When the mailbox</em>
-<em> Become spider’s heaven</em>
-<em> I wake up</em>
-<em> I repent</em>
-<em> Time is just like a double-edged sword</em>
-<em> It gives me the creativeness without hesitate</em>
-<em> While it wrested my communication skill decidedly</em>
-<em> But why found must be after lost?</em>
+When nothing to talk</em>
+Between the foes we are</em>
+When brother we are</em>
+Get coldness</em>
+When the mailbox</em>
+Become spider’s heaven</em>
+I wake up</em>
+I repent</em>
+Time is just like a double-edged sword</em>
+It gives me the creativeness without hesitate</em>
+While it wrested my communication skill decidedly</em>
+But why found must be after lost?</em>
 
-<em>Rain</em>
-<em> Necklaces made up by water drops</em>
-<em> I faced</em>
-<em> I just like a bird with injured wings</em>
-<em> Stay in the Phoenix Tree alone</em>
-<em> No interests to enjoy the beautiful scene</em>
-<em> One poem can’t express my helplessness</em>
-<em> Then how many can express</em>
-<em> The answer may be made me more helplessness</em>
+Rain</em>
+Necklaces made up by water drops</em>
+I faced</em>
+I just like a bird with injured wings</em>
+Stay in the Phoenix Tree alone</em>
+No interests to enjoy the beautiful scene</em>
+One poem can’t express my helplessness</em>
+Then how many can express</em>
+The answer may be made me more helplessness</em>
 
-<em>I came back our land again and again</em>
-<em> Waiting for the meeting unexpectedly</em>
-<em> But it be the cold rain again and again</em>
-<em> And I try to ask the god</em>
-<em> Are you crying for me?</em>
-<em> Like a child</em>
+I came back our land again and again</em>
+Waiting for the meeting unexpectedly</em>
+But it be the cold rain again and again</em>
+And I try to ask the god</em>
+Are you crying for me?</em>
+Like a child</em>
 <em> No answer</em>
 <em> …</em>
 <em> Never answer</em>
