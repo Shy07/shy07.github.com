@@ -55,42 +55,42 @@ We met
 While the feeling became  
 Clear and clear  
 
-When nothing to talk</em>
-Between the foes we are</em>
-When brother we are</em>
-Get coldness</em>
-When the mailbox</em>
-Become spider’s heaven</em>
-I wake up</em>
-I repent</em>
-Time is just like a double-edged sword</em>
-It gives me the creativeness without hesitate</em>
-While it wrested my communication skill decidedly</em>
-But why found must be after lost?</em>
+When nothing to talk  
+Between the foes we are  
+When brother we are  
+Get coldness  
+When the mailbox  
+Become spider’s heaven  
+I wake up  
+I repent  
+Time is just like a double-edged sword  
+It gives me the creativeness without hesitate  
+While it wrested my communication skill decidedly  
+But why found must be after lost?  
 
-Rain</em>
-Necklaces made up by water drops</em>
-I faced</em>
-I just like a bird with injured wings</em>
-Stay in the Phoenix Tree alone</em>
-No interests to enjoy the beautiful scene</em>
-One poem can’t express my helplessness</em>
-Then how many can express</em>
-The answer may be made me more helplessness</em>
+Rain  
+Necklaces made up by water drops  
+I faced  
+I just like a bird with injured wings  
+Stay in the Phoenix Tree alone  
+No interests to enjoy the beautiful scene  
+One poem can’t express my helplessness  
+Then how many can express  
+The answer may be made me more helplessness  
 
-I came back our land again and again</em>
-Waiting for the meeting unexpectedly</em>
-But it be the cold rain again and again</em>
-And I try to ask the god</em>
-Are you crying for me?</em>
-Like a child</em>
-<em> No answer</em>
-<em> …</em>
-<em> Never answer</em>
+I came back our land again and again  
+Waiting for the meeting unexpectedly  
+But it be the cold rain again and again  
+And I try to ask the god  
+Are you crying for me?  
+Like a child  
+No answer  
+…  
+Never answer  
 
 Mac: Wow, cool.
 Zoe: But I hate poetry with obscurity.
-<h2>(Finally the spies found them)</h2>
+## (Finally the spies found them)  
 NPC1: We found them!
 NPC2: Annihilation.
 NPC1: Yes, sir.
@@ -99,31 +99,31 @@ Mac: Hand them to me, Zoe.
 Zoe: And what should I do?
 Mac: Eternity Sword, you must found it.
 Zoe: Wait!
-<h2>(And Mac has run away.)</h2>
+## (And Mac has run away.)  
 Mac: Hey, nice guy. Let’s have a party.
-<h3>[Battle: Mac Vs enemies]</h3>
-<h2>(And Zoe was fret)</h2>
-Zoe: Well, but be careful…
-<h2>(One minutes late)</h2>
-Zoe: Lost and found…That’s it, I see. Wait for me, Mac.
-Mac: Ah…
-Zoe: Mac!
-NPC2: Humph, trash man.
-Zoe: Ditch him!
-NPC2: Okay. If you want.
-<h2>(NPC2 killed Mac)</h2>
-Zoe: No!
-NPC2: Humph… Now I’ll send you him together.
-Zoe: Skunk!
-<h3>[Battle: Zoe Vs NPC2]</h3>
-<h2>(After battle)</h2>
-NPC2: Oh, forgive me, I don’t wanna be died.
-Zoe: Say hello to Azrael for me.
-NPC2: Ah…
-Zoe: Mac…
-<h2>(Zoe kneel down beside Mac)</h2>
-Zoe: Why! Found must be after lost! Why! Tell me, Mac! Tell me…
-<h2>(And at last, it’s raining. Fin.)</h2>
+### [Battle: Mac Vs enemies]  
+## (And Zoe was fret)  
+Zoe: Well, but be careful…  
+## (One minutes late)  
+Zoe: Lost and found…That’s it, I see. Wait for me, Mac.  
+Mac: Ah…  
+Zoe: Mac!  
+NPC2: Humph, trash man.  
+Zoe: Ditch him!  
+NPC2: Okay. If you want.  
+## (NPC2 killed Mac)  
+Zoe: No!  
+NPC2: Humph… Now I’ll send you him together.  
+Zoe: Skunk!  
+### [Battle: Zoe Vs NPC2]  
+## (After battle)  
+NPC2: Oh, forgive me, I don’t wanna be died.  
+Zoe: Say hello to Azrael for me.  
+NPC2: Ah…  
+Zoe: Mac…  
+## (Zoe kneel down beside Mac)  
+Zoe: Why! Found must be after lost! Why! Tell me, Mac! Tell me…  
+## (And at last, it’s raining. Fin.)  
 <p style="text-align: right;">5/24/2010 12:41:14 PM</p>
 
 
