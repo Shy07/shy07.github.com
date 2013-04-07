@@ -6,13 +6,13 @@ paginate:         6
 permalink:        /:title
 
 title:            爱者微语 | Love Whisper - Shy07's Bolg
-url:              http://git.shy07.com
+url:              http://www.shy07.com
 feed:             /atom.xml
 author:
     name:         Shy07
     twitter:      twitter.com/Shy07
 description:      "闲暇时聊聊主机游戏、游戏开发和程序代码，当然，还有正在策划中的个人游戏——爱者 微语 | Love Whisper。"
-author_info:      <a href="http://shy07.com">Sherry Lynch</a>
+author_info:      <a href="http://www.shy07.com">Sherry Lynch</a>
 
 copyright:
     - Design by <a href="http://beiyuu.com/about" title="BeiYuu" target="_blank">BeiYuu</a> &copy; 2013

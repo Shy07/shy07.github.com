@@ -129,5 +129,5 @@ Zoe: Why! Found must be after lost! Why! Tell me, Mac! Tell me…
 
 
 
-[Shy07]:    http://git.shy07.com  "Shy07"
+[Shy07]:    http://www.shy07.com  "Shy07"
 [1]:    {{ page.url}}  ({{ page.title }})

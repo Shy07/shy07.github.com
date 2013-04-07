@@ -65,5 +65,5 @@ description: 此文弃内容之讲解，从本质之感悟。措辞多有艰涩�
 
 
 
-[Shy07]:    http://git.shy07.com  "Shy07"
+[Shy07]:    http://www.shy07.com  "Shy07"
 [1]:    {{ page.url}}  ({{ page.title }})
