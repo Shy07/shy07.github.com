@@ -126,3 +126,9 @@ Zoe: Mac…
 Zoe: Why! Found must be after lost! Why! Tell me, Mac! Tell me…
 <h2>(And at last, it’s raining. Fin.)</h2>
 <p style="text-align: right;">5/24/2010 12:41:14 PM</p>
+
+
+
+
+[Shy07]:    http://git.shy07.com  "Shy07"
+[1]:    {{ page.url}}  ({{ page.title }})
