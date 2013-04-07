@@ -22,8 +22,8 @@ description: 许久没有发文了，不过这次并不是自己写的文，也�
 
 > Piglet's lovely.  
 
-<p style="text-align: right;">FLORA
-Jan1.2007</p>
+<blockquote><p style="text-align: right;">FLORA
+Jan1.2007</p></blockquote>
 
 * 和 Zanyar 失去联络是在 2001 年左右，直到 2008 年我们重逢，中间相隔了七年。这七年或许是我有记忆以来活得最精彩的一段日子，只是 Zanyar 并不属于这段日子，实在是遗憾。  
 * 2008 年至今又是六年，我与 Zanyar 又失去了联系，或者说单方面不想联系而已。不过这些都无所谓了，在一边进行 Project 7 的时候一边回忆，这种感觉很美好。期望在下一个七年到来之前能够把它完成吧。  
