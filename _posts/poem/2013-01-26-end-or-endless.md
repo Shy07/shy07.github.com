@@ -4,7 +4,8 @@ title: End or Endless
 category: poem
 description: 许久没有发文了，不过这次并不是自己写的文，也不是转载的，因为没有授权。
 ---
-许久没有发文了，不过这次并不是自己写的文，也不是转载的，因为没有授权。文的名字如题，End or Endless，这也是我对作者的思念。作者是“追忆过去-2”的女主角，名叫 Zanyar，但本文落款是 Flora，想来期间也改过网名吧。  
+许久没有发文了，不过这次并不是自己写的文，也不是转载的，因为没有授权。文的名字如题，End or Endless，这也是我对作者的思念。作者是“追忆过去-2”的女主角，名叫 Zanyar，但本文落款是 Flora，想来期间也改过网名吧。 
+ 
 <blockquote>A new beginning. I wish everyone would be happy and heathy in the year 2007.
 
 Life is just simple, as long as you like. But something seems so distant to me. I am growing up, only to find it is just a pretty nice dream in the heaven.
