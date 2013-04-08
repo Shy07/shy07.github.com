@@ -3,7 +3,8 @@ auto:	          true
 markdown:         rdiscount
 pygments:         true
 paginate:         6
-permalink:        /:title
+permalink:        pretty
+# /:title
 
 title:            爱者微语 | Love Whisper - Shy07's Bolg
 url:              http://www.shy07.com
