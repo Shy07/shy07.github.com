@@ -102,7 +102,7 @@ pre ol{margin-left:25px;list-style-type:decimal;}
 .index-artical h2 a{color:#444}
 .index-artical h2 a:hover {color:#E50053;text-decoration:none;}
 .index-artical li{margin-bottom:45px;}
-.title-desc {color:#aaa;font-style:italic;font-size:14px;display:block;text-align:left;margin-top:-20px;}
+.title-desc {color:#aaa;font-style:italic;font-size:14px;display:block;text-align:left;/*margin-top:-20px;*/}
 
 /***************Wiki Style*****************/
 .wiki h2{cursor:pointer;}
