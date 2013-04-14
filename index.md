@@ -29,7 +29,6 @@ layout: page
         <div class="clear"></div>
     </div>
 </div>
-</div>
 {% for post in site.categories.article %}
 <div class="post-251 post type-post status-publish format-standard hentry category-essays category-article tag-29">
     <h1 class="entry-title">
