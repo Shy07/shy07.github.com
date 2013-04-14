@@ -218,7 +218,7 @@ body {
 #logo #searchform #s {
 	width: 28px;
 	
-	background: #F9F9F9 url(images/mag.png) no-repeat 10px center;
+	background: #F9F9F9 url('/images//mag.png') no-repeat 10px center;
 	border: 1px solid #EEEEEE;
 	border-width: 0 0 1px 0;
 	-moz-box-sizing: border-box;
