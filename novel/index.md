@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<div class="index-content poem">
+<div class="index-content novel">
     <div class="section">
         <ul class="artical-cate">
             <li><a href="/"><span>Artilce</span></a></li>
