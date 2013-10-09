@@ -5,15 +5,15 @@ layout: home
 <div class="index-content poem">
     <div class="section">
         <ul class="artical-cate">
-            <li><a href="/"><span>Blog</span></a></li>
-            <li style="text-align:center"><a href="/novel"><span>Novel</span></a></li>
-            <li class="on" style="text-align:right"><a href="/poem"><span>Poem</span></a></li>
+            <li><a href="/"><span>Article</span></a></li>
+            <li class="on" style="text-align:center"><a href="/poem"><span>Poem</span></a></li>
+            <li style="text-align:right"><a href="/novel"><span>Novel</span></a></li>
         </ul>
 
         <div class="cate-bar"><span id="cateBar"></span></div>
 
         <ul class="artical-list">
-        {% for post in site.categories.poem %}
+        {% for post in site.categories.novel %}
             <li>
                 <h2>
                     <a href="{{ post.url }}">{{ post.title }}</a>
