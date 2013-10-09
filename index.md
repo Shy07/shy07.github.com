@@ -1,35 +1,26 @@
 ---
-layout: page
+layout: home
 ---
-<div class="index-artical">
-    <ul class="index-left">
-    {% for post in site.categories.article %}
-        <li>
-            <h2>
-            	<a href="{{ post.url }}">{{ post.title }}</a>
-            </h2>
-            <span class="title-desc">{{ post.description }}</span>
-        </li>
-    {% endfor %}
-    </ul>
 
-    <ul class="index-mid"> </ul>
+<div class="index-content article">
+    <div class="section">
+        <ul class="artical-cate">
+            <li class="on"><a href="/"><span>Article</span></a></li>
+            <li style="text-align:center"><a href="/novel"><span>Novel</span></a></li>
+            <li style="text-align:right"><a href="/poem"><span>Poem</span></a></li>
+        </ul>
 
-    <ul class="index-right">
-    {% for post in site.categories.poem %}
-        <li>
-            <h2>
-            	<a href="{{ post.url }}">{{ post.title }}</a>
-            </h2>
-            <span class="title-desc">{{ post.description }}</span>
-        </li>
-    {% endfor %}
-    </ul>
+        <div class="cate-bar"><span id="cateBar"></span></div>
+
+        <ul class="artical-list">
+        {% for post in site.categories.article %}
+            <li>
+                <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+                <div class="title-desc">{{ post.description }}</div>
+            </li>
+        {% endfor %}
+        </ul>
+    </div>
+    <div class="aside">
+    </div>
 </div>
-
-<script type="text/javascript">
-$(function(){
-    var height = $('.index-artical').height();
-    $('.index-mid').height(height-90);
-});
-</script>
