@@ -1,18 +1,17 @@
-auto:	          true
+auto: true
 
-markdown:         rdiscount
-pygments:         true
-paginate:         6
+markdown: rdiscount
+pygments: true
+paginate: 8
 permalink:        /:year/:month/:title.html
-# /:title
 
-title:            çˆ±è€…å¾®è¯­ | Love Whisper - Shy07's Bolg
+title:            °®ÕßÎ¢Óï | Love Whisper - Shy07's Bolg
 url:              http://www.shy07.com
-feed:             /atom.xml
+feed: /atom.xml
 author:
     name:         Shy07
     twitter:      twitter.com/Shy07
-description:      "é—²æš‡æ—¶èŠèŠä¸»æœºæ¸¸æˆã€æ¸¸æˆå¼€å‘å’Œç¨‹åºä»£ç ï¼Œå½“ç„¶ï¼Œè¿˜æœ‰æ­£åœ¨ç­–åˆ’ä¸­çš„ä¸ªäººæ¸¸æˆâ€”â€”çˆ±è€… å¾®è¯­ | Love Whisperã€‚"
+description:      "ÏĞÏ¾Ê±ÁÄÁÄÖ÷»úÓÎÏ·¡¢ÓÎÏ·¿ª·¢ºÍ³ÌĞò´úÂë£¬µ±È»£¬»¹ÓĞÕıÔÚ²ß»®ÖĞµÄ¸öÈËÓÎÏ·¡ª¡ª°®Õß Î¢Óï | Love Whisper¡£"
 author_info:      <a href="http://www.shy07.com">Sherry Lynch</a>
 
 copyright:
