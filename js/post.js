@@ -25,7 +25,7 @@ $(document).ready(function(){
 
     //***********************
     //**评论的代码也删掉哦***
-    window.disqus_shortname = 'Shy07'; // required: replace example with your forum shortname
+    window.disqus_shortname = 'shy07'; // required: replace example with your forum shortname
     $('#disqus_container .comment').on('click',function(){
         $(this).html('加载中...');
         var that = this;
@@ -38,7 +38,7 @@ $(document).ready(function(){
         var href = $(this).attr('href');
         if(href){
             if(href.indexOf('#') == 0){
-            }else if ( href.indexOf('/') == 0 || href.toLowerCase().indexOf('beiyuu.com')>-1 ){
+            }else if ( href.indexOf('/') == 0 || href.toLowerCase().indexOf('www.shy07.com')>-1 ){
             }else if ($(element).has('img').length){
             }else{
                 $(this).attr('target','_blank');
