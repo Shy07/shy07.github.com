@@ -5,7 +5,7 @@ layout: home
 <div class="index-content novel">
     <div class="section">
         <ul class="artical-cate">
-            <li><a href="/"><span>Artilce</span></a></li>
+            <li><a href="/"><span>Article</span></a></li>
             <li style="text-align:center"><a href="/poem"><span>Poem</span></a></li>
             <li class="on" style="text-align:right"><a href="/novel"><span>Novel</span></a></li>
         </ul>
