@@ -183,3 +183,26 @@ h3.about {color:#777;margin-top:20px;font-size:22px;margin-bottom:10px}
 @media (max-width: 1300px){
     .home-menu { position:absolute; }
 }
+
+#footer {
+    border: transparent;
+    border-width: 0 1px;
+    color: #888;
+    color: #999999;
+    font-size: 0.85em;
+    margin-bottom: 35px;
+    padding: 0px 5px;
+    text-align: center;
+}
+
+#footer .copyright {
+    margin-bottom: 0.75em;
+}
+
+#footer .designed {
+}
+
+#footer a {
+    color: #777;
+    text-decoration: none;
+}
