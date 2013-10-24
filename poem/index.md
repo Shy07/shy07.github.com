@@ -26,3 +26,7 @@ layout: home
     <div class="aside">
     </div>
 </div>
+<div id="footer">
+    <div class="copyright">&copy; 2012 - 1013 Shy07. All Rights Reserved.</div>
+    <div class="designed">Powered By <a href="">Github</a> - Design By <a href="http://beiyuu.com">Beiyuu</a></div>
+</div>

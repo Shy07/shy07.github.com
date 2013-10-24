@@ -185,18 +185,22 @@ h3.about {color:#777;margin-top:20px;font-size:22px;margin-bottom:10px}
 }
 
 #footer {
+    position:fixed;
+    right:0px;
+    bottom:0px;
+    z-index:20;
     border: transparent;
     border-width: 0 1px;
     color: #888;
     color: #999999;
-    font-size: 0.85em;
-    margin-bottom: 35px;
+    font-size: 0.65em;
+    margin-bottom: 0px;
     padding: 0px 5px;
-    text-align: center;
+    text-align: right;
 }
 
 #footer .copyright {
-    margin-bottom: 0.75em;
+    margin-bottom: 0.25em;
 }
 
 #footer .designed {
