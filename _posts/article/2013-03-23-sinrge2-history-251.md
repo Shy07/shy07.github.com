@@ -65,5 +65,5 @@ Happy birthday, SINRGE2.
 
 
 [Shy07]:    http://www.shy07.com  "Shy07"
-[github 地址]:   http://github.com/Shy07/SINRGE2  "github 地址"
+[github 地址]:   https://github.com/Shy07/SINRGE2  "github 地址"
 [1]:    {{ page.url}}  ({{ page.title }})
