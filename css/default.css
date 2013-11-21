@@ -84,13 +84,13 @@ pre ol{margin-left:25px;list-style-type:decimal;}
     background-position:50% 50%;
 }
 .article .aside{
-    background-image:url(/images/miche00.jpg);
+    background-image:url(/images/aside00.jpg);
 }
 .poem .aside{
-    background-image:url(/images/miche01.jpg);
+    background-image:url(/images/aside01.jpg);
 }
 .project .aside{
-    background-image:url(/images/miche02.jpg);
+    background-image:url(/images/aside02.jpg);
 }
 .index-content .section { margin-left:30%; padding-top:80px; padding-right:15%; ;}
 
