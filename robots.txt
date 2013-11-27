@@ -4,7 +4,7 @@ User-agent: Sosospider
 Disallow: /
 User-agent: sogou spider
 Disallow: /
-User-agent: YodaoBot
+User-agent: 360Spider
 Disallow: /
 User-agent: *
 Disallow: /*.js$
