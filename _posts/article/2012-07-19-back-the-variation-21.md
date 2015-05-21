@@ -88,19 +88,19 @@ No answer
 …  
 Never answer  
 
-Mac: Wow, cool.
-Zoe: But I hate poetry with obscurity.
+Mac: Wow, cool.  
+Zoe: But I hate poetry with obscurity.  
 ## (Finally the spies found them)  
-NPC1: We found them!
-NPC2: Annihilation.
-NPC1: Yes, sir.
+NPC1: We found them!  
+NPC2: Annihilation.  
+NPC1: Yes, sir.  
 
-Mac: Hand them to me, Zoe.
-Zoe: And what should I do?
-Mac: Eternity Sword, you must found it.
-Zoe: Wait!
+Mac: Hand them to me, Zoe.  
+Zoe: And what should I do?  
+Mac: Eternity Sword, you must found it.  
+Zoe: Wait!  
 ## (And Mac has run away.)  
-Mac: Hey, nice guy. Let’s have a party.
+Mac: Hey, nice guy. Let’s have a party.  
 ### [Battle: Mac Vs enemies]  
 ## (And Zoe was fret)  
 Zoe: Well, but be careful…  
