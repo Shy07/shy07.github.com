@@ -6,7 +6,8 @@ disqus: false
 
 ## 简介
 
-![avatar](https://s.gravatar.com/avatar/2c10bae9c5a107139f3f8085a37da265?s=120)
+<img src="https://s.gravatar.com/avatar/2c10bae9c5a107139f3f8085a37da265?s=500"
+height="120" width="120" alt="avatar"/>
 
 徐凌骑，英文名 HSU Lynch，网名 Shy07。  
 执着于老朽的文字诗篇，痴迷程序代码和主机游戏。  
@@ -21,8 +22,7 @@ disqus: false
 ### 2014.03 - 2015.05 Eyeberry Shanghai
 
 转战平面设计，一面接受 Zara、Lefties、Bershka 等品牌设计的熏陶，一面修炼 AI 技能，
-结果还遇到了自己的 Heroine。  
-遇见 A. 是我本命年唯一的幸运，而这份幸运却用光了我所有的运气。
+结果还遇到了自己的 Heroine。遇见 A. 是我本命年唯一的幸运，而这份幸运却用光了我所有的运气。
 
 ### 2012.09 - 2014.03 自由职业
 
