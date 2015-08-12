@@ -7,7 +7,9 @@ disqus_shortname: lovewhisper # disqus comment thread for post header options. (
 google_analytics_id: UA-33540710-1 # set tracking, UA-XXXX-Y.
 
 links:
-  - name:         关于
+  - name:         Home
+    url:          http://Shy07.com
+  - name:         About
     url:          /about
   - name:         Feed
     url:          /feed.xml
