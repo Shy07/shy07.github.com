@@ -8,7 +8,7 @@ disqus: false
 
 ![avatar](https://s.gravatar.com/avatar/2c10bae9c5a107139f3f8085a37da265?s=120)
 
-徐凌骑，英文名 HSU Lynch，网名 Shy07，Rubyist，不认为 “无 Rails 不 Ruby” 的那群人是同道。
+徐凌骑，英文名 HSU Lynch，网名 Shy07，Rubyist，但不认为 “无 Rails 不 Ruby” 的是同道。
 
 ## 经历
 
@@ -23,12 +23,12 @@ disqus: false
 
 ### 2012.09 - 2014.03 自由职业
 
-在帮亲友创业的间隙，完成了 [SINRGE2][] 这个项目。Year，Graphic with Ruby.
+在帮亲友创业的间隙，完成了 [SINRGE2][] 这个项目。Year，Graphics with Ruby.
 
 ### 2011.09 - 2012.08 66RPG.COM
 
-网站美编文编、论坛管理员、游戏脚本（Ruby）、PSV 应用开发（C#）
-样样通，样样松。唯一不变的是坚持自己的最爱是 Ruby。
+网站美编文编、论坛管理员、游戏脚本（Ruby）、PSV 应用开发（C#）  
+真所谓，样样通，样样松。然而，唯一不变的是坚持自己的最爱，Ruby。
 
 ## 足迹
 
