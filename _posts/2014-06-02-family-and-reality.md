@@ -3,8 +3,6 @@ layout: post
 title: 顾家的现实
 category: article
 description: Whatever happens tomorrow, we've had today.
-prev_page: /2013/11/01/desktop-01.html
-next_page: /2014/06/03/forgot.html
 ---
 
 　　这两天听到最多的两个字就是：现实。  

@@ -3,7 +3,6 @@ layout: post
 title: Back - The Variation
 category: article
 description: 给大学同学写的剧本，原来打算一起用 Unity3D 做一个游戏……
-next_page: /2012/07/19/graduation-practice-report-41.html
 ---
 
 给大学同学写的剧本，原来打算一起用 Unity3D 做一个游戏，不过后来因为种种原因，遂放弃了。  

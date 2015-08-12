@@ -3,7 +3,6 @@ layout: post
 title: 一斛珠·辰山應笑 并序
 category: poem
 description: 独游辰山，恍如昨日。心意如故，口拙如故；雨落词合，文心如故；悲喜交织，犹如雨也。
-prev_page: /2014/06/03/forgot.html
 ---
 
 独游辰山，恍如昨日。心意如故，口拙如故；不觉今日雨落词合，文心如故；悲喜交织，犹如雨也。  

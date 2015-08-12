@@ -3,8 +3,6 @@ layout: post
 title: 背后的刀刃
 category: poem
 description: 此篇是尚在挖坑阶段的游戏'Love Whisper Episode IV'的故事原型……
-prev_page: /2012/07/21/i-donot-know-142.html
-next_page: /2012/09/30/magnolia-205.html
 ---
 
 此篇是尚在挖坑阶段的游戏 'Love Whisper Episode IV' 的故事原型，写成于2008年末，

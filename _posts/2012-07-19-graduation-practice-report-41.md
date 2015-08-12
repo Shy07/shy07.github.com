@@ -3,8 +3,6 @@ layout: post
 title: 毕业实习报告
 category: article
 description: 此文弃内容之讲解，从本质之感悟。措辞多有艰涩之处，是为实话不明语，修辞文饰之，冀盼多有包涵。
-prev_page: /2012/07/19/back-the-variation-21.html
-next_page: /2012/07/20/inscription-138.html
 ---
 
 此文弃内容之讲解，从本质之感悟。措辞多有艰涩之处，是为实话不明语，修辞文饰之，冀盼多有包涵。  
