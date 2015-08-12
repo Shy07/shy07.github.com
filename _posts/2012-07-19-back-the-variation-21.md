@@ -5,7 +5,7 @@ category: article
 description: 给大学同学写的剧本，原来打算一起用 Unity3D 做一个游戏……
 ---
 
-给大学同学写的剧本，原来打算一起用 Unity3D 做一个游戏，不过后来因为种种原因，遂放弃了。  
+给大学同学写的剧本，原来打算一起用 Unity3D 做一个游戏，不过后来因为种种原因放弃了。  
 
 <p style="text-align: right;">Scenario by Linki Shy
 Character with Zoe &amp; Mac</p>  
