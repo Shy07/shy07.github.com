@@ -9,19 +9,20 @@ disqus: false
 ![avatar](https://s.gravatar.com/avatar/2c10bae9c5a107139f3f8085a37da265?s=120)
 
 徐凌骑，英文名 HSU Lynch，网名 Shy07。  
-　　执着于老朽的文字诗篇，痴迷程序代码和主机游戏。  
-　　　　本职码农，当过编辑，做过设计，现在为全栈而努力。
+执着于老朽的文字诗篇，痴迷程序代码和主机游戏。  
+本职码农，当过编辑，做过设计，现在终于回归本源，追寻初心。
 
 ## 职场
 
 ### 2015.06 - 至今 Web Developer
 
-目前在一家无名的创业公司安安静静开发网站， 潜心磨练技能的同时修身养性。
+目前在一家无名的创业公司安安静静开发网站，潜心磨练技能的同时修身养性。
 
 ### 2014.03 - 2015.05 Eyeberry Shanghai
 
-为了向 Web 全栈发展而转投全职平面设计，一面接受 Zara、Lefties、Bershka 等品牌设计的熏陶，
-一面修炼 AI 技能，结果还遇到了自己的 Heroine，Miss A.，本命年着实幸运。
+转战平面设计，一面接受 Zara、Lefties、Bershka 等品牌设计的熏陶，一面修炼 AI 技能，
+结果还遇到了自己的 Heroine。  
+遇见 A. 是我本命年唯一的幸运，而这份幸运却用光了我所有的运气。
 
 ### 2012.09 - 2014.03 自由职业
 
@@ -41,11 +42,6 @@ http://ruby-china.org/shy07
 ### Github
 
 https://github.com/Shy07
-
-### 66RPG
-
-http://rm.66rpg.com/?245454
-
 
 
 [SINRGE2]:   https://github.com/Shy07/SINRGE2  "SINRGE2"
