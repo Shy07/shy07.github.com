@@ -14,6 +14,9 @@ links:
   - name:         Email
     url:          mailto:Gernischt@gmail.com
     external:     true
+  - name:         twitter
+    url:          http://twitter.com/Shy07com
+    external:     true
   - name:         GitHub
     url:          http://github.com/Shy07
     external:     true
