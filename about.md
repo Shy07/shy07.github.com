@@ -7,11 +7,11 @@ disqus: false
 ## 简介
 
 <img src="https://s.gravatar.com/avatar/2c10bae9c5a107139f3f8085a37da265?s=500"
-height="120" width="120" alt="avatar"/>
+  height="120" width="120" alt="avatar"/>
 
 徐凌骑，英文名 HSU Lynch，网名 Shy07。  
-执着于老朽的文字诗篇，痴迷程序代码和主机游戏。  
-本职码农，当过编辑，做过设计，现在终于回归本源。
+本职码农，当过编辑，做过设计，彷徨三年许，现在终于回归本源。  
+执着于老朽的文字诗篇，痴迷程序代码和主机游戏。现在一心，倾一己之力完成 'Love Whisper' 。
 
 ## 经历
 
