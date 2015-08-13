@@ -10,7 +10,7 @@ links:
   - name:         Home
     url:          http://Shy07.com
   - name:         About
-    url:          /about
+    url:          /about.html
   - name:         Feed
     url:          /feed.xml
   - name:         Email
