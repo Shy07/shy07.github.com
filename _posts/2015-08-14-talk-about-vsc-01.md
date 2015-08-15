@@ -47,5 +47,5 @@ VSC 的语言支持情况：
 |+ IntelliSense, linting, outline  |CSS, HTML, JavaScript, JSON, Less, Sass|
 |+ Refactoring, find all references|TypeScript                             |
 
-此外，VSC 还支持 Markdown 代码片段，在 User Snippets 中设置自己的代码片段以后，可以按 `⌃Space` 使用。  
+此外，VSC 还支持 Markdown 代码片段，在 User Snippets 中设置自己的代码片段以后，可以通过 `⌃Space` 快捷键使用。  
 至于，编译输出 HTML 等功能，我并不是很需要，所以就不介绍了。
