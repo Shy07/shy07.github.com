@@ -47,4 +47,6 @@ VSC 的语言支持情况：
 |+ IntelliSense, linting, outline  |CSS, HTML, JavaScript, JSON, Less, Sass|
 |+ Refactoring, find all references|TypeScript                             |
 
-此外，VSC 还支持 Markdown 代码片段，在 User Snippets 中设置自己的代码片段以后，可以通过 `⌃Space` 快捷键使用。至于，编译输出 HTML 等功能，我并不是很需要，所以就不介绍了。
+此外，VSC 还支持 Markdown 代码片段，在 User Snippets 中设置自己的代码片段以后，可以通过 `⌃Space` 快捷键使用。至于，编译输出 HTML 等功能，但这些都不是本文的重点，所以就不介绍了。
+
+从官网的介绍来看，相比 Sublime Text、Atom 这些同类产品，VSC 的核心竞争力是 "code-edit-debug cycle"。虽然，VSC 还处于预览版阶段，但是从对于 Markdown 的支持度来看，VSC 的前景还是值得期待的。
