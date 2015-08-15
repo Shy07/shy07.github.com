@@ -1,6 +1,6 @@
 ---
 layout: post
-title: VSC，我的 Markdown 编辑器
+title: 使用 VSC 编辑 Markdown
 ---
 
 最近网站换了主题，一直想写点东西，但是苦于没什么话题可写。正巧，前两天试用了一下微软新发布的轻量级编辑器 Visual Studio Code。虽然还是预览版，但对于 Markdown 的支持，我已经十分满意，尤其在预览方面已经超越了我之前用的 Mou。于是写下本文，准备安利一下。
@@ -47,5 +47,4 @@ VSC 的语言支持情况：
 |+ IntelliSense, linting, outline  |CSS, HTML, JavaScript, JSON, Less, Sass|
 |+ Refactoring, find all references|TypeScript                             |
 
-此外，VSC 还支持 Markdown 代码片段，在 User Snippets 中设置自己的代码片段以后，可以通过 `⌃Space` 快捷键使用。  
-至于，编译输出 HTML 等功能，我并不是很需要，所以就不介绍了。
+此外，VSC 还支持 Markdown 代码片段，在 User Snippets 中设置自己的代码片段以后，可以通过 `⌃Space` 快捷键使用。至于，编译输出 HTML 等功能，我并不是很需要，所以就不介绍了。
