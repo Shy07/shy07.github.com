@@ -3,13 +3,13 @@ layout: post
 title: 使用 VSC 编辑 Markdown
 ---
 
-最近网站换了主题，一直想写点东西，但是苦于没什么话题可写。正巧，前两天试用了一下微软新发布的轻量级编辑器 Visual Studio Code。虽然还是预览版，但对于 Markdown 的支持，我已经十分满意，尤其在预览方面已经超越了我之前用的 Mou。于是写下本文，准备安利一下。
+最近网站换了主题，一直想写点东西，但是苦于没什么话题可写。正巧，前两天试用了一下微软新发布的轻量级编辑器 Visual Studio Code。虽然还是预览版，但对于 Markdown 的支持，我已经十分满意。尤其在预览方面已经超越了我之前用的 Mou，于是想简单安利一下。
 
 当然，本文是在 VSC 上编辑的。
 
 ![截图1](/images/20150814/snap01.png)
 
-VSC 是 VS 家族全新的、免费的、轻量化的、偏向 Web 开发的编辑器。你可以从这里获取到它：https://code.visualstudio.com/
+VSC 是 VS 家族全新的、免费的、轻量化的、偏向 Web 开发的编辑器。可以编辑的语言肯定不止 Markdown 一种，但是它对 Markdown 的支持度已经足够吸引我，本文着重点也是在 VSC 预览 Markdown 的方面。你可以从这里获取到它：https://code.visualstudio.com/
 
 ## Markdown Preview
 
