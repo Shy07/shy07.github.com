@@ -12,6 +12,7 @@ The expression string may contain open `(` and closing parentheses `)`, the plus
 You may assume that the given expression is always valid.
 
 Some examples:
+
 ```ruby
 "1 + 1" = 2
 " 2-1 + 2 " = 3
