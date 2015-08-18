@@ -11,6 +11,8 @@ links:
     url:          http://Shy07.com
   - name:         About
     url:          /about.html
+  - name:         Tour
+    url:          /tour-de-memory.html
   - name:         Feed
     url:          /feed.xml
   - name:         Email
