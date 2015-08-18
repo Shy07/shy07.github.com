@@ -11,10 +11,12 @@ slider: true
   <img data-src="/images/tour/t03.jpg" src="" alt="tour 4" />
 </div>
 
-- Time: 2014 Fall
-- Place: Qingpu & Songjiang (Shanghai)
-- Cycle: Giant OCR3700
-- Post Processing: Instagram & PhotoShop
+|                   | |                             |
+|:------------------|-|-----------------------------|
+|**Time**           |:|2014 Fall                    |
+|**Place**          |:|Qingpu & Songjiang (Shanghai)|
+|**Cycle**          |:|GIANT OCR3700                |
+|**Post Processing**|:|Instagram & PhotoShop        |
 
 
 <script src="/javascripts/ideal-image-slider.min.js"></script>
