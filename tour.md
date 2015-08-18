@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Tour
+slider: true
 ---
 
 <div id="slider">
@@ -10,8 +11,6 @@ title: Tour
   <img data-src="/images/tour/t04.jpg" src="" alt="tour 4" />
 </div>
 
-
-<link href="/stylesheets/ideal-image-slider.css" rel="stylesheet" type="text/css">
 <script src="/javascripts/ideal-image-slider.min.js"></script>
 <script>
   var slider = new IdealImageSlider.Slider({
