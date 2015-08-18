@@ -14,6 +14,12 @@ title: Tour
 
 <script src="/javascripts/ideal-image-slider.min.js"></script>
 <script>
-  var slider = new IdealImageSlider.Slider('#slider');
+  var slider = new IdealImageSlider.Slider({
+    selector: '#slider',
+    height: 646,
+    interval: 5000,
+    effect: 'fade',
+    keyboardNav: false,
+  });
   slider.start();
 </script>
