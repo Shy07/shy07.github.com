@@ -19,7 +19,7 @@ title: Tour
     height: 646,
     interval: 5000,
     effect: 'fade',
-    keyboardNav: false,
+    disableNav: true,
   });
   slider.start();
 </script>
