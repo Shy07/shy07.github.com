@@ -2,6 +2,7 @@
 layout: page
 title: Tour de Memory
 slider: true
+signoff: true
 ---
 
 <div id="slider">
