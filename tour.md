@@ -12,7 +12,7 @@ title: Tour
   <img data-src="/images/tour/t04.jpg" src="" alt="tour 4" />
 </div>
 
-<script src="/javascripts/ideal-image-slider.js"></script>
+<script src="/javascripts/ideal-image-slider.min.js"></script>
 <script>
   var slider = new IdealImageSlider.Slider('#slider');
   slider.start();
