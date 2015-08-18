@@ -7,10 +7,10 @@ title: Tour
 
 <div class="banner">
   <ul>
-    <li><img src="/tour/t01.jpg"></li>
-    <li><img src="/tour/t02.jpg"></li>
-    <li><img src="/tour/t03.jpg"></li>
-    <li><img src="/tour/t04.jpg"></li>
+    <li><img src="/images/tour/t01.jpg"></li>
+    <li><img src="/images/tour/t02.jpg"></li>
+    <li><img src="/images/tour/t03.jpg"></li>
+    <li><img src="/images/tour/t04.jpg"></li>
   </ul>
 </div>
 
