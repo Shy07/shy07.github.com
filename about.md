@@ -4,8 +4,6 @@ title: About
 disqus: false
 ---
 
-## 简介
-
 <img src="https://s.gravatar.com/avatar/2c10bae9c5a107139f3f8085a37da265?s=500"
   height="120" width="120" alt="avatar"/>
 
@@ -13,7 +11,7 @@ disqus: false
 本职码农，当过编辑，做过设计，彷徨三年许，现在终于回归本源。  
 执着于老朽的文字诗篇，痴迷程序代码和主机游戏，现在一心完成 'Love Whisper' 。
 
-## 经历
+## What evil have I done?
 
 ### 2015.06 - 至今 Web Developer
 
@@ -32,15 +30,19 @@ disqus: false
 网站美编文编、论坛管理员、游戏脚本（Ruby）、PSV 应用开发（C#）  
 刚步入职场，技能点样样通、样样松。然而，唯一不变的是坚持自己的最爱，Ruby。
 
-## 足迹
+## You can find me here.
+
+### Github
+
+https://github.com/Shy07
 
 ### Ruby China
 
 http://ruby-china.org/shy07
 
-### Github
+### Twitter
 
-https://github.com/Shy07
+http://twitter.com/Shy07com
 
 
 [SINRGE2]:   https://github.com/Shy07/SINRGE2  "SINRGE2"

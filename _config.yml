@@ -15,15 +15,6 @@ links:
     url:          /tour-de-memoire.html
   - name:         Feed
     url:          /feed.xml
-  - name:         Email
-    url:          mailto:Gernischt@gmail.com
-    external:     true
-  - name:         Twitter
-    url:          http://twitter.com/Shy07com
-    external:     true
-  - name:         GitHub
-    url:          http://github.com/Shy07
-    external:     true
 
 pygments:         true
 permalink:        /:year/:month/:title.html
