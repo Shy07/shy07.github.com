@@ -5,7 +5,7 @@ slider: true
 signoff: true
 ---
 
-## GALLERY
+## PROLOGUE
 
 <div id="slider">
   <img src="/images/tour/t04.jpg" alt="tour 1" />
@@ -14,7 +14,7 @@ signoff: true
   <img data-src="/images/tour/t03.jpg" src="" alt="tour 4" />
 </div>
 
-## INFO
+## GALLERY INFO.
 
 |                   |                             |
 |:------------------|:----------------------------|
