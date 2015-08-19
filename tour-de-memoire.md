@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tour de Memory
+title: Tour de Mémoire
 slider: true
 signoff: true
 ---
