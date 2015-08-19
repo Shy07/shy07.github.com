@@ -5,12 +5,16 @@ slider: true
 signoff: true
 ---
 
+## GALLERY
+
 <div id="slider">
   <img src="/images/tour/t04.jpg" alt="tour 1" />
   <img data-src="/images/tour/t01.jpg" src="" alt="tour 2" />
   <img data-src="/images/tour/t02.jpg" src="" alt="tour 3" />
   <img data-src="/images/tour/t03.jpg" src="" alt="tour 4" />
 </div>
+
+## INFO
 
 |                   |                             |
 |:------------------|:----------------------------|
