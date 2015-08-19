@@ -33,20 +33,19 @@ Several years’ lose
 Several years’ care  
 And one day  
 We met  
+
 While the feeling became  
 Clear and clear  
-
 When nothing to talk  
 Between the foes we are  
-When brother we are  
-Get coldness  
 When the mailbox  
 Become spider’s heaven  
+
 I wake up  
 I repent  
 Time is just like a double-edged sword  
 It gives me the creativeness without hesitate  
-While it wrested my communication skill decidedly  
+While it wrested my social skills decidedly  
 But why found must be after lost?  
 
 Rain  
@@ -62,9 +61,9 @@ The answer may be made me more helplessness
 I came back our land again and again  
 Waiting for the meeting unexpectedly  
 But it be the cold rain again and again  
-And I try to ask the god  
+And I try to ask the god like a child  
 Are you crying for me?  
-Like a child  
+
 No answer  
 …  
 Never answer  
