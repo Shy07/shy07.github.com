@@ -73,7 +73,7 @@ Never answer
 <script>
   var slider = new IdealImageSlider.Slider({
     selector: '#slider',
-    height: 646,
+    height: $('#slider').width(),
     interval: 5000,
     effect: 'fade',
     disableNav: true,
