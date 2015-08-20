@@ -103,5 +103,6 @@ def calculate(s)
   end[:out])
 end
 ```
+虽然还是慢，但总算进了显示区间。
 
 ![截图2](/images/201508/snap_basic_calc_02.png)
