@@ -80,4 +80,7 @@ Never answer
   });
   slider.addBulletNav();
   slider.start();
+  $(window).resize(function() {
+    $('#slider').height($('#slider').width());
+  });
 </script>
