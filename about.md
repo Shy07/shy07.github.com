@@ -38,10 +38,6 @@ disqus: false
 
 https://github.com/Shy07
 
-### Ruby China
-
-http://ruby-china.org/shy07
-
 ### Twitter
 
 http://twitter.com/Shy07com
