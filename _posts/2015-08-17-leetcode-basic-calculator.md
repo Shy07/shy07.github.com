@@ -59,24 +59,24 @@ end
 
 ![截图1](/images/201508/snap_basic_calc_01.png)
 
-第二遍把字符串翻成了数组，遇到括号闭合计算括号里的内容，虽然代码多了十行，但是速度翻了一倍还多。
+第二遍把字符串翻成了数组，遇到括号闭合时计算括号里的内容，虽然代码多了十行，但是速度翻了一倍还多。
 
 ```ruby
 # @param {String} s
 # @return {Integer}
 def calculate(s)
-  data = s.chars.inject({:result=>[], :tmp=>nil}) do |mem, var|
+  data = s.chars.inject({:result=>[], :temp=>nil}) do |mem, var|
     if /\d/ =~ var
-      mem[:tmp] = 0 if mem[:tmp].nil?
-      mem[:tmp] = mem[:tmp] * 10 + var.to_i
+      mem[:temp] = 0 if mem[:temp].nil?
+      mem[:temp] = mem[:temp] * 10 + var.to_i
     elsif /[\(|\)|+|-]/ =~ var
-      mem[:result] << mem[:tmp] if mem[:tmp] != nil
+      mem[:result] << mem[:temp] if mem[:temp] != nil
       mem[:result] << var
-      mem[:tmp] = nil
+      mem[:temp] = nil
     end
     mem
   end
-  data[:result] << data[:tmp] if !data[:tmp].nil?
+  data[:result] << data[:temp] if !data[:temp].nil?
 
   calc = -> arr do
     arr.inject({:left=>0, :plus=>true}) do |mem, var|
@@ -103,6 +103,6 @@ def calculate(s)
   end[:out])
 end
 ```
-虽然还是慢，但总算进了显示区间。
 
 ![截图2](/images/201508/snap_basic_calc_02.png)
+虽然还是慢，但总算进了显示区间。
