@@ -3,12 +3,12 @@ h1, h2, h3, h4, h5, strong, b {
 
 html, body {
   height: 100%;
-  /*-webkit-filter: grayscale(100%);
+  -webkit-filter: grayscale(100%);
   -moz-filter: grayscale(100%);
   -ms-filter: grayscale(100%);
   -o-filter: grayscale(100%);
   filter: grayscale(100%);
-  filter: gray;*/ }
+  filter: gray; }
 
 body {
   color: #303030;
