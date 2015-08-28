@@ -1,29 +1,27 @@
-h2, h3, h4, h5 {
-  margin: 2em 0 1em; }
+h1, h2, h3, h4, h5, strong, b {
+  font-weight: 600; }
 
 html, body {
-  height: 100%; }
-
-html {
-  -webkit-filter: grayscale(100%);
+  height: 100%;
+  /*-webkit-filter: grayscale(100%);
   -moz-filter: grayscale(100%);
   -ms-filter: grayscale(100%);
   -o-filter: grayscale(100%);
-  
   filter: grayscale(100%);
-
-  filter: gray;
-}
+  filter: gray;*/ }
 
 body {
-  background: #f9f9f9;
   color: #303030;
+  background: #f9f9f9;
   font-family: "Microsoft YaHei", "Helvetica Neue", Arial, sans-serif;
   font-weight: 400;
   font-size: 13px;
   line-height: 19px;
   padding: 0;
   margin: 0; }
+
+img {
+  border: none; }
 
 #go-back-home {
   margin: 40px 0 0; }
@@ -82,7 +80,7 @@ header {
 
 footer {
   width: 100%;
-  max-width: 768px;
+  max-width: 640px;
   line-height: 2em;
   margin: auto;
   padding-bottom: 30px;
@@ -92,7 +90,7 @@ footer {
 
 #container {
   width: 100%;
-  max-width: 768px;
+  max-width: 640px;
   background: #fff;
   margin: 40px auto 20px;
   border-radius: 7px;
@@ -287,10 +285,11 @@ section.post {
       color: #454545; }
 
 pre {
+  overflow-x: auto;
   word-wrap: break-word;
   color: #eee;
   background: #29281e;
-  padding: 1em;
+  padding: 10px;
   border-radius: 5px;
   width: 100%;
   line-height: 1.2em;
@@ -314,9 +313,9 @@ pre {
   left: 50%;
   font-size: 60px; }
 .paging .left {
-  margin-left: -424px; }
+  margin-left: -360px; }
 .paging .right {
-  margin-left: 404px; }
+  margin-left: 340px; }
 
 iframe.sample {
   width: 100%;
@@ -328,3 +327,5 @@ figure {
   figure figcaption {
     font-size: 16px;
     margin-top: 1em; }
+
+/*# sourceMappingURL=style.css.map */

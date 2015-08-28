@@ -4,18 +4,9 @@
 
     #container {
       ul.posts {
-        .datetime {
-          float: none;
-          display: block;
-          width: auto;
-          text-align: left;
-        }
+        .datetime { float: none; display: block; width: auto; text-align: left; }
       }
-
-      #ind-instagram, #ind-linkedin {
-        display: none;
-      }
-
+      #ind-instagram, #ind-linkedin {display: none; }
       .links, .content {
         padding: 15px;
       }
