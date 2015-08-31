@@ -44,24 +44,27 @@ Become spider’s heaven
 I wake up  
 I repent  
 Time is just like a double-edged sword  
-It gives me the creativeness without hesitate  
+It gives me creativeness without hesitate  
 While it wrested my social skills decidedly  
+
 But why found must be after lost?  
 
 Rain  
-Necklaces made up by water drops  
-I faced  
+Necklaces made up by water drops I faced  
 I just like a bird with injured wings  
 Stay in the Phoenix Tree alone  
+
 No interests to enjoy the beautiful scene  
 One poem can’t express my helplessness  
-Then how many can express  
+Then how many can express?  
 The answer may be made me more helplessness  
 
 I came back our land again and again  
 Waiting for the meeting unexpectedly  
 But it be the cold rain again and again  
-And I try to ask the god like a child  
+
+And one day
+I try to ask the god  
 Are you crying for me?  
 
 No answer  
