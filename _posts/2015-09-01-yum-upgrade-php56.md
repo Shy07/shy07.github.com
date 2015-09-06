@@ -50,19 +50,18 @@ yum install php56w
 <br/>
 ## 错误
 
-如果出现类似  
-
 ```
 错误：php56w-common conflicts with php-common-5.xxx.x86_64
 ```
-
-的错误信息时，说明 yum 已经安装了 php。这时候需要升级替换原来版本的 php：
+如果出现类似上面的错误信息时，说明 yum 已经安装了 php。这时候需要升级替换原来版本的 php：
 
 ```bash
 yum install yum-plugin-replace
 yum replace php-common --replace-with=php56w-common
 ```
+然后再次运行安装命令即可：
 
-然后再次运行 ```yum install php56w``` 即可。
-
+ ```bash
+ yum install php56w
+ ``` 
 Enjoy!
