@@ -11,11 +11,14 @@ disqus: false
 
 徐凌骑，英文名 HSU Lynch，网名 Shy07。  
 本职码农，当过编辑，做过设计，彷徨三年许，现在终于回归本源。  
-执着于老朽的文字诗篇，痴迷程序代码和主机游戏，现在一心完成 'Love Whisper' 。  
+执着于老朽的文字诗篇，痴迷程序代码和主机游戏，现在一心追求自己的 Heroine。  
 <br/>
 ## What evil have I done?  
-### 2015.06 - 至今 Web Developer  
-目前在一家创业公司安安静静地开发网站，潜心磨练技能的同时酝酿着 'Love Whisper' 计划。
+### 2015.12 - NOW Eyeberry Shanghai
+感谢 EB 的同事和朋友，以及 Vivian 和 Lucy 的理解和信任，让我有机会重新回到这个家庭，去迎接新的挑战。2016, let's keep walking, and, you'll never walk alone.
+
+### 2015.06 - 2015.12 Web Developer  
+在一家创业公司安安静静地开发网站，感谢老汪的尊重和放任，在工作中和工作外有机会全心投入地去了解前沿的技术。React + node.js + CoffeeScript + Bootstrap，我的 Web 开发技术栈就此完成。
 
 ### 2014.03 - 2015.05 Eyeberry Shanghai  
 转战平面设计，一面接受 Zara、Lefties、Bershka 等品牌设计的熏陶，一面修炼 AI 技能，结果还遇到了自己的 Heroine。
