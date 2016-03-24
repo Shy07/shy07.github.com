@@ -19,6 +19,6 @@ links:
 
 highlighter:      'pygments'
 permalink:        /:year/:month/:title.html
-markdown:         redcarpet
+markdown:         kramdown  #redcarpet
 redcarpet:
   extensions:     [autolink, tables]
