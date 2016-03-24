@@ -17,7 +17,7 @@ links:
   - name:         Feed
     url:          /feed.xml
 
-highlighter:      'pygments'
+highlighter:      'rouge'  #'pygments'
 permalink:        /:year/:month/:title.html
 markdown:         kramdown  #redcarpet
 redcarpet:
