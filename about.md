@@ -13,8 +13,10 @@ disqus: false
 本职码农，当过编辑，做过设计，彷徨三年许，现在终于回归本源。  
 执着于老朽的文字诗篇，痴迷程序代码和主机游戏，现在只为一个心愿而努力。  
 <br/>
-## What evil have I done?  
-### 2015.12 - NOW Eyeberry Shanghai
+
+## What evil have I done?
+
+### 2015.12 - NOW Eyeberry Shanghai  
 感谢 EB 的同事和朋友，以及 Vivian 和 Lucy 的理解和信任，让我有机会重新回到这里，去迎接新的挑战。2016, let's keep walking, and  you'll never walk alone.
 
 ### 2015.06 - 2015.12 Web Developer  
@@ -30,7 +32,8 @@ disqus: false
 网站美编文编、论坛管理员、游戏脚本（Ruby）、PSV 应用开发（C#）  
 刚步入职场，技能点样样通、样样松。然而，唯一不变的是坚持自己的最爱，Ruby。  
 <br/>
-## You can find me here.
+
+## You can find me here.  
 
 ### Github
 

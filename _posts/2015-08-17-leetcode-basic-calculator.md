@@ -4,6 +4,7 @@ title: LeetCode 刷题笔记：Basic Calculator
 ---
 
 ##题目
+
 ###Basic Calculator
 Implement a basic calculator to evaluate a simple expression string.
 
@@ -21,6 +22,7 @@ Some examples:
 **Note: Do not** use the eval built-in library function.
 
 ##思路
+
 第一遍的思路是用正则不断取出括号计算，直到消除全部括号，最后计算剩余算式，返回。
 
 ```ruby
