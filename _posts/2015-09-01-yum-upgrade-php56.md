@@ -25,6 +25,7 @@ PHP 5.6 新增特性：
 
 重要的事情说三遍！  
 <br/>
+
 ## 准备
 
 安装 PHP 5.6 之前需要先添加 Webtatic EL 的 yum 仓库信息:  
@@ -40,14 +41,16 @@ CentOS/RHEL 6.x:
 rpm -Uvh https://mirror.webtatic.com/yum/el6/latest.rpm
 ```
 <br/>
+
 ## 安装
 
 然后开始安装 PHP 5.6:  
 
-```
+```bash
 yum install php56w
 ```
 <br/>
+
 ## 错误
 
 ```
@@ -61,7 +64,8 @@ yum replace php-common --replace-with=php56w-common
 ```
 然后再次运行安装命令即可：
 
- ```bash
- yum install php56w
- ``` 
+```bash
+yum install php56w
+```
+
 Enjoy!
