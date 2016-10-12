@@ -17,7 +17,7 @@ disqus: false
 ## What evil have I done?
 
 ### 2015.12 - NOW Eyeberry Shanghai  
-感谢 EB 的同事和朋友，以及 Vivian 和 Lucy 的理解和信任，让我有机会重新回到这里，去迎接新的挑战。2016, let's keep walking, and  you'll never walk alone.
+重回故地，2016, let's keep walking, and you'll never walk alone.
 
 ### 2015.06 - 2015.12 Web Developer  
 在一家创业公司安安静静地开发网站，感谢老汪的尊重和放任，让我有机会全心投入地去了解前沿的技术。React + node.js + CoffeeScript + Bootstrap，我的 Web 开发技术栈就此完成。
