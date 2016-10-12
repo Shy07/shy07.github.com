@@ -6,7 +6,7 @@ disqus: false
 
 ## Short Introduction
 
-<img src="https://s.gravatar.com/avatar/2c10bae9c5a107139f3f8085a37da265?s=500"
+<img src="https://avatars2.githubusercontent.com/u/1578809?v=3&s=400"
   height="120" width="120" alt="avatar"/>
 
 徐凌骑，英文名 HSU Lynch，网名 Shy07。  
