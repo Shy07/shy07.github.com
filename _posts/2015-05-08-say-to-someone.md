@@ -22,10 +22,9 @@ tags: [诗词,文言,情感]
 书锦难承殷意好，淤迂绮语声渐悄。会须期日心思巧。霁后烟虹、挈手星桥道。  
 
 
-![鸢尾介绍](/images/20150508/IMG_0186.jpg)
-
-![鸢尾](/images/20150508/IMG_0180.jpg)
-
-![睡莲叶](/images/20150508/IMG_0189.jpg)
-
-![睡莲](/images/20150508/IMG_0193.jpg)
+<figure class="third">
+  <img alt="鸢尾介绍" src="/images/20150508/IMG_0186.jpg">
+  <img alt="睡莲叶" src="/images/20150508/IMG_0189.jpg">
+  <img alt="睡莲" src="/images/20150508/IMG_0193.jpg">
+	<figcaption>Photo in ChenShan</figcaption>
+</figure>
