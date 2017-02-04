@@ -1,5 +1,7 @@
-source 'http://rubygems.org'
+source "https://rubygems.org"
 
-gem 'jekyll', '~> 2.5.3'
-gem 'sass', '~> 3.4.16'
-gem 'coffee-script', '~> 2.4.1'
+gem "jekyll", "~> 3.2.1"
+gem "jekyll-sitemap"
+gem "jekyll-gist"
+gem 'jekyll-mentions'
+gem 'jekyll-feed'

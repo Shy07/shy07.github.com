@@ -1,6 +1,7 @@
 ---
 layout: post
 title: CentOS/RHEL 7.1 & 6.7 安装 PHP 5.6
+tags: [code]
 ---
 
 PHP 5.6.12 是 PHP 5 最新的版本，应该也是最后一个版本了吧，毕竟 PHP 7 RC1 已出，等到十月份就是正式版本发布了。

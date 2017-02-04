@@ -1,28 +1,51 @@
-<html>
-  <head>
+---
+layout: compress
+---
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"><!--<![endif]-->
+<head>
     <title>{{ page.title }} | {{ site.title }}</title>
     {% include head.html %}
-  </head>
-  <body>
-    {% include header.html %}
-    <div id='container'>
-      {% include links.html %}
-      {% include post_pagination.html %}
-      <div class="content">
-        <section class='post'>
-          <h1>
-            <div class='date'>{{ page.date | date_to_string }}</div>
-            {{ page.title }}
-          </h1>
-          {{ content }}
-          {% include signoff.html %}
-        </section>
-      </div>
-      {% if site.disqus_shortname and page.disqus != false %}
-        {% include disqus.html %}
-      {% endif %}
-      {% include links.html %}
-    </div>
-    {% include footer.html %}
-  </body>
+</head>
+<body>
+    {% include nav.html %}
+    <!-- Header -->
+    <header class="header" role="banner">
+        <div class="wrapper animated fadeIn">
+            <div class="content">
+                <div class="post-title {% if page.feature %} feature {% endif %}">
+                    <h1>{{ page.title }}</h1>
+                    <h4>{{ page.date | date_to_string }}</h4>
+                    {% if site.reading_time %}
+                    <p class="reading-time">
+                      <i class="fa fa-clock-o"></i>
+                      {% include read-time.html %}
+                    </p><!-- /.entry-reading-time -->
+                    {% endif %}
+                    {% if page.project %}
+                    <a class="btn zoombtn" href="{{site.url}}/projects/">
+                    {% else %}
+                    <a class="btn zoombtn" href="{{site.url}}/posts/">
+                    {% endif %}
+                        <i class="fa fa-chevron-left"></i>
+                    </a>
+                </div>
+                {{ content }}
+                {% include signoff.html %}
+                <div class="entry-meta">
+                {% include meta.html %}
+                </div>
+            </div>
+        </div>
+        {% if page.comments and site.disqus_shortname %}<section id="disqus_thread" class="animated fadeInUp"></section><!-- /#disqus_thread -->{% endif %}
+    </header>
+    {% include scripts.html %}
+    {% if site.mathjax == true %}
+    <!-- MathJax -->
+    <script async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    {% endif %}
+</body>
 </html>

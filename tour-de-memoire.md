@@ -5,6 +5,8 @@ slider: true
 signoff: true
 ---
 
+<link href="/assets/css/ideal-image-slider.css" rel="stylesheet" type="text/css">
+
 ## PROLOGUE
 
 <div id="slider">
@@ -74,7 +76,7 @@ No answer
 Never answer  
 
 
-<script src="/javascripts/ideal-image-slider.min.js"></script>
+<script src="/assets/js/ideal-image-slider.min.js"></script>
 <script>
   var slider = new IdealImageSlider.Slider({
     selector: '#slider',

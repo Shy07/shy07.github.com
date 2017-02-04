@@ -1,24 +1,81 @@
-title:            爱者微语
-subtitle:         书锦难承殷意好 淤迂绮语声渐悄 会须期日心思巧 霁后烟虹 挈手星桥道
-description:      Lynch's Blog
-url:              http://Shy07.com # Site url.
-signoff:          Lynch # Your name.
-copyright:        Shy07 # Your name.
-disqus_shortname: lovewhisper # disqus comment thread for post header options. ( leave blank if unwanted. )
+# Site
+title:              爱者微语
+bio:                'ゆめとゆき、すきです。'
+description:        "Lynch's Blog"
+reading_time:       true
+words_per_minute:   400
+logo:               'assets/img/logo.png'
+background:         'assets/img/placeholder-big.jpg'
+tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
+locale:             zh_CN
+url:                http://shy07.com
+
+signoff:            Lynch # Your name.
+avatar:             /assets/img/avatar.jpg
 google_analytics_id: UA-33540710-1 # set tracking, UA-XXXX-Y.
 
-links:
-  - name:         Home
-    url:          /
-  - name:         About
-    url:          /about.html
-  - name:         Tour
-    url:          /tour-de-memoire.html
-  - name:         Feed
-    url:          /feed.xml
 
-highlighter:      'rouge'  #'pygments'
-permalink:        /:year/:month/:title.html
-markdown:         kramdown  #redcarpet
-redcarpet:
-  extensions:     [autolink, tables]
+# Jekyll
+permalink:          /:year/:month/:title.html
+markdown:           kramdown
+highlighter:        rouge
+kramdown:
+  auto_ids:         true
+  footnote_nr:      1
+  entity_output:    as_char
+  toc_levels:       1..6
+  enable_coderay:   false
+mathjax:            true
+sass:
+  sass_dir:         _sass
+  style:            compressed
+
+# Comments
+# disqus_shortname:   taylantatli
+
+# Social
+# if you don't have any of social below, comment the line.
+#google:
+  #plus:            #username
+  #analytics:
+  #verify:
+  #ad-client:
+  #ad-slot:
+#bing-verify:
+#email:
+twitter:            Shy07com
+# facebook:           username
+github-url:         Shy07
+#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+linkedin:           Shy07
+#xing:              username
+instagram:          Shy07com
+#lastfm:            username
+#tumblr:            username
+#medium:            '@username'
+#pinterest:         username
+#foursquare:        username
+# steam:              username
+#dribbble:          username
+#youtube:           username
+#youtube-channel:   channel
+#soundcloud:        username
+weibo:             Shy07
+#flickr:            username
+#codepen:           username
+#keybase:           username
+#xmpp:              username@server.com
+#hackernews:        username
+
+# Gems
+gems:
+  - jekyll-mentions
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-gist
+
+jekyll-mentions:
+    base_url: https://github.com
+
+# Exclude list
+exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]

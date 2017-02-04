@@ -3,6 +3,7 @@ layout: post
 title: 少女的祈祷
 category: poem
 description: 此篇是尚在挖坑阶段的游戏'Love Whisper Episode IV'的故事原型……
+tags: [诗词,故事]
 ---
 
 ## 启  

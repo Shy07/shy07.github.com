@@ -1,6 +1,7 @@
 ---
 layout: post
 title: LeetCode 刷题笔记：Basic Calculator
+tags: [code,Ruby]
 ---
 
 ## 题目

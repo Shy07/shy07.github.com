@@ -1,13 +1,16 @@
 ---
 layout: page
-title: About
-disqus: false
+title: About the Theme
+tags: [about, Jekyll, theme, moon]
+date: 2016-03-21
+comments: false
 ---
+
 
 ## Short Introduction
 
-<img src="https://avatars2.githubusercontent.com/u/1578809?v=3&s=400"
-  height="120" width="120" alt="avatar"/>
+<img src="{{ site.avatar }}"
+  style="width:120px;height:120px;margin-left:0" alt="avatar"/>
 
 徐凌骑，英文名 HSU Lynch，网名 Shy07。  
 本职码农，当过编辑，做过设计，彷徨三年许，现在终于回归本源。  
