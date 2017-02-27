@@ -23,7 +23,6 @@ signoff: true
 |**Time**           |2014 Fall                    |
 |**Place**          |Qingpu & Songjiang (Shanghai)|
 |**Cycle**          |GIANT OCR3700                |
-|**Post Processing**|Instagram & PhotoShop        |
 
 ---
 
@@ -33,10 +32,10 @@ Rain is the tear of the god
 I thought  
 Like a poet  
 
-Several years’ lose  
-Several years’ care  
+Several years’ losing  
+Several years’ caring  
 And one day  
-We met  
+We meet  
 
 While the feeling became  
 Clear and clear  
@@ -48,7 +47,7 @@ Become spider’s heaven
 I wake up  
 I repent  
 Time is just like a double-edged sword  
-It gives me creativeness without hesitate  
+It gives me creativeness without hesitation  
 While it wrested my social skills decidedly  
 
 But why found must be after lost?  

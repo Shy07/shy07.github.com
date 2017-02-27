@@ -40,11 +40,11 @@ comments: false
 
 ### Github
 
-https://github.com/Shy07
+<https://github.com/Shy07>
 
 ### Twitter
 
-http://twitter.com/Shy07com
+<http://twitter.com/Shy07com>
 
 
 [SINRGE2]:   https://github.com/Shy07/SINRGE2  "SINRGE2"
