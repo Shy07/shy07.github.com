@@ -12,28 +12,32 @@ comments: false
 <img src="{{ site.avatar }}"
   style="width:120px;height:120px;margin-left:0" alt="avatar"/>
 
-徐凌骑，英文名 HSU Lynch，网名 Shy07。  
+徐凌骑，英文名 HSU Rynki，网名 Shy07。  
 本职码农，当过编辑，做过设计，彷徨三年许，现在终于回归本源。  
 执着于老朽的文字诗篇，痴迷程序代码和主机游戏，现在只为一个心愿而努力。  
 <br/>
 
 ## What evil have I done?
 
-### 2015.12 - NOW Eyeberry Shanghai  
-重回故地，2016, let's keep walking, and you'll never walk alone.
+### eyeberrycn.com
+[eyeberrycn.com](https://github.com/Shy07/eyeberrycn.com)，利用个人时间为公司的开发的 onepage 页面，React + Bootstrap + Webpack + Yarn 等时下流行的 Web 前端技术栈的演练项目。
 
-### 2015.06 - 2015.12 Web Developer  
-在一家创业公司安安静静地开发网站，感谢老汪的尊重和放任，让我有机会全心投入地去了解前沿的技术。React + node.js + CoffeeScript + Bootstrap，我的 Web 开发技术栈就此完成。
+### tumblr-dl
+[tumblr-dl](https://github.com/Shy07/tumblr-dl) ，一个 Ruby 写就的 Tumblr 资源命令行下载工具，支持通过 Tumblr 用户名下载该用户发布的视频和图片资源。滴滴，没时间解释了，快上车！  
 
-### 2014.03 - 2015.05 Eyeberry Shanghai  
-转战平面设计，一面接受 Zara、Lefties、Bershka 等品牌设计的熏陶，一面修炼 AI 技能，结果还遇到了自己的 Heroine。
+### 矩变健身微信公众号
+作为项目负责人领导该项目开发工作，并在离职后保持兼职状态参与开发。该项目使用 nodejs 全栈开发，前端 React、后端 Express，使用 Restful 风格 API 通信的前后端分离架构。涉及技术栈：  
+CoffeeScript，React，Bootstrap，Express，Sequelize，NPM+Webpack。
 
-### 2012.09 - 2014.03 Freelancer  
-闲云野鹤一年半，越是了解代码的世界，越是知道自己的浅薄，在此间隙完成了 [SINRGE2][] 这个项目。
+### 沪深股市选股工具
+在 2016 最火热的那波牛市中，公司为迎合投资人趣味开发了这个项目。该项目使用 Ruby 实现爬虫来抓取沪深股市历史行情数据，并根据不同算法计算如 MACD、EMA、金叉、死叉等信息，使用 Bootstrap 搭建网站，支持用户设置自定义条件过滤选股。
+通过 API 与微信服务号实现通信交流。项目难点在于，初期股市行情历史数据的收集和整理，从沪深股市开盘第一天开始计算 MACD、EMA 等指标并保持与多数证券网站数据保持误差在小数点 4~6 位之后。  
+其中涉及的技术栈：  
+Ruby，PHP，MariaDB，Linux+crontab，Bootstrap，highcharts+highstock。  
 
-### 2011.09 - 2012.08 66RPG  
-网站美编文编、论坛管理员、游戏脚本（Ruby）、PSV 应用开发（C#）  
-刚步入职场，技能点样样通、样样松。然而，唯一不变的是坚持自己的最爱，Ruby。  
+### SINRGE2
+[SINRGE2](https://github.com/Shy07/SINRGE2) ，个人开发的最大项目，C/C++ 写就的基于 DX8 的 Ruby 游戏图形类库，类似 RPG Maker  的 RGSS，可以开发出性能更优功能更多的 2D 游戏。  
+
 <br/>
 
 ## You can find me here.  
@@ -44,7 +48,4 @@ comments: false
 
 ### Twitter
 
-<http://twitter.com/Shy07com>
-
-
-[SINRGE2]:   https://github.com/Shy07/SINRGE2  "SINRGE2"
+<http://twitter.com/rinkis>

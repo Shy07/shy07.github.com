@@ -1,7 +1,7 @@
 # Site
 title:              爱者微语
 bio:                'a dreamer, developer and player'
-description:        "Lynch's Blog"
+description:        "rynki's blog"
 reading_time:       true
 words_per_minute:   400
 logo:               'assets/img/logo.png'
@@ -10,7 +10,7 @@ tiled_bg:           false   # Set this true if you want to tile your background 
 locale:             zh_CN
 url:                http://shy07.com
 
-signoff:            Lynch # Your name.
+signoff:            rynki # Your name.
 avatar:             /assets/img/avatar.jpg
 google_analytics_id: UA-33540710-1 # set tracking, UA-XXXX-Y.
 
@@ -43,13 +43,13 @@ sass:
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            imshy07
+twitter:            rynkis
 # facebook:           username
-github-url:         Shy07
+github-url:         shy07
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin:           Shy07
+linkedin:           shy07
 #xing:              username
-instagram:          imshy07
+instagram:          rynkiss
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
@@ -60,7 +60,7 @@ instagram:          imshy07
 #youtube:           username
 #youtube-channel:   channel
 #soundcloud:        username
-weibo:             Shy07
+weibo:             shy07
 #flickr:            username
 #codepen:           username
 #keybase:           username
