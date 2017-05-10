@@ -48,4 +48,4 @@ Ruby，PHP，MariaDB，Linux+crontab，Bootstrap，highcharts+highstock。
 
 ### Twitter
 
-<http://twitter.com/rinkis>
+<http://twitter.com/rynkis>
