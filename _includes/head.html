@@ -5,7 +5,7 @@
     <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
     {% if page.tags %}<meta name="keywords" content="{{ page.tags | join: ', ' }}">{% endif %}
     <!-- Twitter Cards -->
-    {% if page.feature %}{% capture feature %}{{ page.feature }}{% endcapture %}{% unless feature contains 'http://' or feature contains 'https://' %}{% capture feature %}/{{ feature }}{% endcapture %}{% endunless %}
+    {% if page.feature %}{% capture feature %}{{ page.feature }}{% endcapture %}{% unless feature contains 'http://' or feature contains 'https://' %}{% capture feature %}{{ feature }}{% endcapture %}{% endunless %}
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:image" content="{{ feature }}">
     {% else %}<meta name="twitter:card" content="summary">
@@ -58,6 +58,6 @@
     <!-- Post Feature Image -->
     {% if page.feature %}
     {% capture feature %}{{ page.feature }}{% endcapture %}
-    {% unless feature contains 'http://' or feature contains 'https://' %}{% capture feature %}/{{ feature }}{% endcapture %}{% endunless %}
+    {% unless feature contains 'http://' or feature contains 'https://' %}{% capture feature %}{{ feature }}{% endcapture %}{% endunless %}
     <style type="text/css">.feature {background-image:url({{ feature }});}</style>
     {% endif %}
