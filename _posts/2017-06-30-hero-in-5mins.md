@@ -2,7 +2,7 @@
 layout: post
 title: 阳澄湖恩怨
 category: article
-description: 为独立游戏《少侠一炷香》编写的剧本，因为美术资源问题没有启用。
+description: 为独立游戏《少侠一炷香》编写的剧本，因为美术资源的问题没有启用。
 tags: [游戏, 工作]
 ---
 
